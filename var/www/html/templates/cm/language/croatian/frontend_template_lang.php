@@ -669,5 +669,8 @@ $lang['Web page'] = "CroatiaMarkets";
 $lang['greeting_msg'] = "You’re receiving this email because you recently created a new CroatiaMarkets account or added a new email address. If this wasn’t you, please ignore this email.";
 $lang['greeting_regards'] = "Kind Regards, The Croatia Markets Team";
 $lang['treefield_64_1'] = "Odaberite županiju";
+$lang['Property preview'] = "Odabrani oglas";
+$lang['My properties'] = "Moji oglasi";
+
 
 ?>
