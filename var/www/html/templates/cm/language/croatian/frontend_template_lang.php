@@ -7,6 +7,7 @@ $lang['TO'] = "Do";
 $lang['Any'] = "Sve";
 $lang['Estate'] = "";
 $lang['open property'] = "";
+
 $lang['Free property activation'] = "Besplatni oglasi aktivirani";
 $lang[''] = "";
 
@@ -48,7 +49,7 @@ $lang['Locationonmap'] = "Lokacija na karti";
 $lang['Noestates'] = "Nema oglasa";
 $lang['Description'] = "Opis";
 $lang['Generalamenities'] = "Osnovne pogodnosti";
-$lang['Propertylocation'] = "Lokacija nekretnine";
+$lang['Propertylocation'] = "Lokacija oglasa";
 $lang['Imagegallery'] = "Galerija fotografija";
 $lang['Filerepository'] = "Repozitorij datoteka";
 $lang['Overview'] = "Pregled";
@@ -339,7 +340,7 @@ $lang['Add to favorites'] = "";
 
 $lang['No values found'] = "Nema pronađenih vrijednosti";
 $lang['treefield_64_0'] = "Odaberite županiju";
-$lang['treefield_64_1'] = "Odaberite grad";
+$lang['treefield_64_1'] = "Odaberite županiju";
 $lang['treefield_64_2'] = "Odaberite zonu";
 $lang['treefield_64_3'] = "Odaberi susjedstva";
 $lang['treefield_79_0'] = "Kategorija oglasa";
@@ -403,8 +404,8 @@ $lang['Social media'] = "Društveni mediji";
 $lang['PDF export'] = "PDF izvoz";
 $lang['Top subcategories'] = "Top podkategorije";
 $lang['Other subcategories'] = "Ostale podkategorije";
-$lang['Copy to other languages'] = "";
-$lang['Translate to other languages'] = "";
+$lang['Copy to other languages'] = "Kopiraj na Engleski";
+$lang['Translate to other languages'] = "Prevedi na Engleski";
 $lang['What our clients say'] = "";
 $lang['client_say_message_1'] = "";
 $lang['client_say_message_2'] = "";
@@ -430,7 +431,8 @@ $lang['edit page'] = "";
 $lang['edit category'] = "";
 $lang['Frequently asked questions'] = "";
 $lang['Compare'] = "";
-$lang['Please select parent'] = "";
+
+$lang['Please select parent'] = "Odaberite kategoriju";
 $lang['It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.'] = "";
 $lang['Property added to compare'] = "";
 $lang['Add to comparison list'] = "";
@@ -479,6 +481,7 @@ $lang['Basic category listing page'] = "";
 $lang['QR code'] = "";
 $lang['with PayPal'] = "";
 $lang['unhide'] = "";
+
 $lang['Listing visible for public'] = "Sakriveno za ne-logirane korisnike!";
 $lang['thunderstorm with light rain'] = "";
 $lang['thunderstorm with rain'] = "";
@@ -561,11 +564,12 @@ $lang['phone'] = "";
 $lang['email'] = "";
 $lang['firstname'] = "";
 $lang['Similar properties'] = "";
+
 $lang['Quick add listing'] = "Brza predaja oglasa";
-$lang['Populate address, title and description'] = "";
-$lang['Make sure you select right type and map marker icon'] = "";
-$lang['Put a good price'] = "";
-$lang['Add nice looking photos to your listing'] = "";
+$lang['Populate address, title and description'] = "Unesite adresu, naziv i opis";
+$lang['Make sure you select right type and map marker icon'] = "Odaberite kategoriju i ikonu za mapu";
+$lang['Put a good price'] = "Stavite dobru cijenu";
+$lang['Add nice looking photos to your listing'] = "I dodajte slikicu";
 $lang['Already registered?'] = "Nedavno registrirani?";
 $lang['Then login here'] = "Probajte se logirati ovdje.";
 $lang['Quick Search'] = "";
@@ -606,11 +610,13 @@ $lang['Date requested'] = "";
 $lang['Date completed'] = "";
 $lang['Completed'] = "";
 $lang['Preview'] = "";
-$lang['Your login'] = "";
-$lang['Your email'] = "";
-$lang['Listing address'] = "";
+
+$lang['Your login'] = "Korisničko ime";
+$lang['Your email'] = "E-mail";
+$lang['Listing address'] = "Adresa za oglas";
 $lang['Repository'] = "";
-$lang['Sell or Rent quickly'] = "";
+
+$lang['Sell or Rent quickly'] = "Na brzinu iznajmite ili prodajte";
 $lang['Repository ID not available'] = "";
 $lang['Address not found'] = "";
 $lang['Select map'] = "";
@@ -624,6 +630,7 @@ $lang['Reply on question for real estate'] = "";
 $lang['Reply to email'] = "";
 $lang['Limitation by package'] = "";
 $lang['URI slug'] = "";
+
 $lang['Hidden on preview page'] = "Sakriveno na preview";
 $lang['Unsuccessful, possible permission problems or file not exists'] = "";
 $lang['Edit rate'] = "";
@@ -634,6 +641,7 @@ $lang['Changeover day'] = "";
 $lang['Rate nightly'] = "";
 $lang['Rate weekly'] = "";
 $lang['Rate monthly'] = "";
+
 $lang['Quick search'] = "Brza pretraga";
 $lang['Free featured limit'] = "Besplatni izdvojeni limit";
 $lang['Request withdrawal'] = "";
@@ -668,9 +676,7 @@ $lang['Read more'] = "";
 $lang['Web page'] = "CroatiaMarkets";
 $lang['greeting_msg'] = "You’re receiving this email because you recently created a new CroatiaMarkets account or added a new email address. If this wasn’t you, please ignore this email.";
 $lang['greeting_regards'] = "Kind Regards, The Croatia Markets Team";
-$lang['treefield_64_1'] = "Odaberite županiju";
-$lang['Property preview'] = "Odabrani oglas";
-$lang['My properties'] = "Moji oglasi";
-
+$lang['croatian'] = "Hrvatski";
+$lang['english'] = "Engleski";
 
 ?>
