@@ -573,7 +573,7 @@ $lang['Add nice looking photos to your listing'] = "I dodajte slikicu";
 $lang['Already registered?'] = "Nedavno registrirani?";
 $lang['Then login here'] = "Probajte se logirati ovdje.";
 $lang['Quick Search'] = "";
-$lang['Name and surname'] = "";
+$lang['Name and surname'] = "Ime i prezime";
 $lang['Mail'] = "";
 $lang['Readed'] = "";
 $lang['Edit image'] = "";
@@ -677,6 +677,8 @@ $lang['Web page'] = "CroatiaMarkets";
 $lang['greeting_msg'] = "Dobili ste ovaj email jer ste se nedavno registrirali na Croatia Markets portal. Ako to niste bili Vi, slobodno ignorirajte ovaj email ili nas obavijetite. Hvala.";
 $lang['greeting_regards'] = "Lijep pozdrav, Croatia Markets Team";
 $lang['Thanks for your inquiry, we forwarded your mail to the agent, your website'] = "Hvala na upitu, proslijedili smo upit oglašivaču. Vaš CroatiaMarkets";
+$lang['Message from real-estate web'] = "Poruka sa CroatiaMarkets portala";
+$lang['Thanks on submission, waiting for approve, please check your email'] = "Thanks on submission, waiting for approve, please check your email";
 $lang['croatian'] = "Hrvatski";
 $lang['english'] = "Engleski";
 
