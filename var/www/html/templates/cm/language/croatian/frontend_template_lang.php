@@ -676,6 +676,7 @@ $lang['Read more'] = "";
 $lang['Web page'] = "CroatiaMarkets";
 $lang['greeting_msg'] = "Dobili ste ovaj email jer ste se nedavno registrirali na Croatia Markets portal. Ako to niste bili Vi, slobodno ignorirajte ovaj email ili nas obavijetite. Hvala.";
 $lang['greeting_regards'] = "Lijep pozdrav, Croatia Markets Team";
+$lang['Thanks for your inquiry, we forwarded your mail to the agent, your website'] = "Hvala na upitu, proslijedili smo upit oglašivaču. Vaš CroatiaMarkets";
 $lang['croatian'] = "Hrvatski";
 $lang['english'] = "Engleski";
 
