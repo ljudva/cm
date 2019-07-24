@@ -678,7 +678,7 @@ $lang['greeting_msg'] = "Dobili ste ovaj email jer ste se nedavno registrirali n
 $lang['greeting_regards'] = "Lijep pozdrav, Croatia Markets Team";
 $lang['Thanks for your inquiry, we forwarded your mail to the agent, your website'] = "Hvala na upitu, proslijedili smo upit oglašivaču. Vaš CroatiaMarkets";
 $lang['Message from real-estate web'] = "Poruka sa CroatiaMarkets portala";
-$lang['Thanks on submission, waiting for approve, please check your email'] = "Thanks on submission, waiting for approve, please check your email";
+$lang['Thanks on submission, waiting for approve, please check your email'] = "Hvala na objavi, molimo provjerite email za aktivirati oglas";
 $lang['croatian'] = "Hrvatski";
 $lang['english'] = "Engleski";
 
