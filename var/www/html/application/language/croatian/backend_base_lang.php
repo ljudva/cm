@@ -196,5 +196,10 @@ $lang['Alredy translated'] = "Već dostupno";
 $lang['Is RTL'] = "Je li RTL";
 $lang['Visible for logged users'] = "Samo za prijavljene";
 $lang['Property preview'] = "Pregled oglasa";
+$lang['New not-activated property from user'] = "Nov neaktivirani oglas od korisnika";
+$lang['New not-activated property'] = "Nov neaktivirani oglas";
+$lang['Web page activated property'] = "Oglas je aktiviran";
+$lang['New activated property'] = "Nov aktiviran oglas";
+$lang['Property preview link'] = "Link na pregled oglasa";
 
 ?>
