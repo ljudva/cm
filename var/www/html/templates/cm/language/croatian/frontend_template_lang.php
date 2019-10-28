@@ -93,7 +93,6 @@ $lang['After saving, you can add files and images'] = "Tek nakon spremanja može
 $lang['Deleteselection'] = "Izbriši odabrane";
 $lang['Cancelupload'] = "Odustani";
 $lang['Addfiles'] = "Dodaj datoteke";
-$lang['Message from real-estate web'] = "Poruka sa Oglasne web stranice";
 $lang['Admininterface'] = "Administracija";
 $lang['GPS'] = "GPS";
 $lang['Suggestroutes'] = "Prijedlog puta";
@@ -689,5 +688,5 @@ $lang['Property preview'] = "Pregled oglasa";
 $lang['password'] = "zaporka";
 $lang['croatian'] = "Hrvatski";
 $lang['english'] = "Engleski";
-
+$lang['message_sent_successfully'] = "Hvala na upitu, pokušati ćemo odgovoriti u što kraćem roku.";
 ?>
